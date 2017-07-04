@@ -1,0 +1,10 @@
+jupyter
+
+numpy
+pandas
+matplotlib
+bcolz
+tqdm
+
+keras
+tensorflow
